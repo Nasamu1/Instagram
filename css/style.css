@@ -1,0 +1,30 @@
+.btn-outline-purple{
+    border: 3px solid #824dff;
+    color: #824dff;
+    background-color: white;
+}
+
+.btn-outline-purple:hover{
+    color: white;
+    background-color: #824dff;
+}
+
+.btn-purple{
+    color: white;
+    background-color: #824dff;
+}
+
+.btn-purple:hover{
+    border: 3px solid #824dff;
+    color: #824dff;
+    background-color: white;
+}
+
+.bg-back{
+    background-color: #222935;
+    color: white;
+}
+
+.bg-form{
+    background-color: #15151d;
+}
